@@ -1,0 +1,19 @@
+{
+    "name": "ghgchain",
+    "description": "food suppy chain by means DLTs",
+    "scripts": {
+        "start": "node js/main.js"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.8.3",
+        "assert": "^2.0.0",
+        "boxen": "^5.1.2",
+        "chalk": "^4.1.2",
+        "clear": "^0.1.0",
+        "figlet": "^1.5.2",
+        "fs-extra": "^11.1.0",
+        "inquirer": "^8.0.1",
+        "path": "^0.12.7",
+        "web3": "^1.8.2"
+    }
+}

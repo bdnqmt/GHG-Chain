@@ -1,0 +1,1 @@
+solc contracts/Main.sol --abi --bin --output-dir /home/[user]/GHG-Chain/contracts/ --overwrite
